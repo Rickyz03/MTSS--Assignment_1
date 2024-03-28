@@ -9,4 +9,6 @@ ASUS ROG Strix Z690-F Gaming Scheda Madre ATX
 
 ## Periferiche
 
+Logitech G G502 HERO Mouse Gaming
+
 # Elettronica Padovana
