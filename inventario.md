@@ -11,4 +11,6 @@ ASUS ROG Strix Z690-F Gaming Scheda Madre ATX
 
 Logitech MX Keys S, Tastiera Wireless  
 
+Logitech G G502 HERO Mouse Gaming
+
 # Elettronica Padovana
