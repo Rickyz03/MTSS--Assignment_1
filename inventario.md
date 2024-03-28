@@ -9,4 +9,6 @@ ASUS ROG Strix Z690-F Gaming Scheda Madre ATX
 
 ## Periferiche
 
+Logitech MX Keys S, Tastiera Wireless  
+
 # Elettronica Padovana
